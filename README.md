@@ -22,7 +22,7 @@ The following steps have been implemented:
 ## 📁 Setup
 
 ```bash
-git clone https://github.com/your-username/docker-workshop-project.git
-cd docker-workshop-project
+git clone https://github.com/KKayaSafa/docker_getting_started.git
+cd getting-started-app
 docker-compose up
 
